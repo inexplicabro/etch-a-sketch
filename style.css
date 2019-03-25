@@ -1,0 +1,34 @@
+*{
+	font-family:sans-serif;
+	margin:0px;
+	padding:0px;
+}
+.container{
+	margin:auto;
+	height:50vh;
+	width:50vh;
+	display:grid;
+}
+.container div{
+	border:1px solid black;
+	margin: 0 -1px -1px 0;
+}
+h1{
+	text-align:center;
+	margin:10px;
+}
+button{
+	margin:10px auto;
+	display:block;
+	width:100px;
+	height:40px;
+}
+.form-container{
+	text-align:center;
+}
+form{
+	margin:10px 0px;
+}
+input{
+	margin:10px 0px;
+}
